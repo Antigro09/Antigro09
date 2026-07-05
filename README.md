@@ -190,7 +190,7 @@ A construction-specialized AI assistant with per-employee accounts, streaming pr
 
 ## `$ history | grep experience`
 
-**`2025 → now` · FIRST Robotics Competition — Team 1086 "Blue Cheese"** · *Programming & Controls, Drive Team*
+**`2024 → now` · FIRST Robotics Competition — Team 1086 "Blue Cheese"** · *Programming & Controls, Drive Team*
 
 - Built the team's CUDA vision stack on Jetson Orin Nano Super: Isaac ROS AprilTag detection → multi-tag SQPnP pose → NetworkTables 4 to the roboRIO
 - Developed BlueScout, the team's offline-first scouting and strategy platform for the 2026 REBUILT season
@@ -209,7 +209,7 @@ A construction-specialized AI assistant with per-employee accounts, streaming pr
 
 `Python` `PyTorch` `HuggingFace` `Linear Algebra` `Optimization`
 
-**`2025` · Center for Information Technology (CIT) — Deep Run High School**
+**`2023` · Center for Information Technology (CIT) — Deep Run High School**
 
 - Built "TaskMaster," a full-stack task-management web application as a CIT Windows Server project
 - Clean-architecture ASP.NET Core 8 Web API — Core/Infrastructure/API layers, EF Core 9, AutoMapper, Swagger
