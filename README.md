@@ -255,8 +255,8 @@ A construction-specialized AI assistant with per-employee accounts, streaming pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Antigro09&show_icons=true&include_all_commits=true&bg_color=0A1220&title_color=00D9FF&text_color=8FB3C7&icon_color=FFC533&border_color=1E3A5F&ring_color=00D9FF&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antigro09&layout=compact&langs_count=8&bg_color=0A1220&title_color=00D9FF&text_color=8FB3C7&border_color=1E3A5F" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Antigro09&show_icons=true&bg_color=0A1220&title_color=00D9FF&text_color=8FB3C7&icon_color=FFC533&border_color=1E3A5F&ring_color=00D9FF&rank_icon=github&cache_seconds=86400" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antigro09&layout=compact&langs_count=8&bg_color=0A1220&title_color=00D9FF&text_color=8FB3C7&border_color=1E3A5F&cache_seconds=86400" height="170" alt="Top languages" />
 
 <br/><br/>
 
@@ -264,7 +264,7 @@ A construction-specialized AI assistant with per-employee accounts, streaming pr
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Antigro09&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Antigro09&theme=algolia&no-frame=true&column=7&row=2&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 <br/><br/>
 
