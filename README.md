@@ -11,6 +11,7 @@
 
 <br/><br/>
 
+<a href="https://anthonycavero.dev"><img src="https://img.shields.io/badge/PORTFOLIO-anthonycavero.dev-00D9FF?style=for-the-badge&logo=safari&logoColor=00D9FF&labelColor=0A1220" alt="Portfolio — anthonycavero.dev" /></a>
 <a href="https://www.linkedin.com/in/anthony-cavero/"><img src="https://img.shields.io/badge/LINKEDIN-anthony--cavero-00D9FF?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0A1220" alt="LinkedIn" /></a>
 <a href="mailto:anthonyj.cavero@gmail.com"><img src="https://img.shields.io/badge/EMAIL-anthonyj.cavero%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0A1220" alt="Email" /></a>
 <a href="https://github.com/Antigro09"><img src="https://img.shields.io/badge/GITHUB-Antigro09-00D9FF?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0A1220" alt="GitHub" /></a>
@@ -319,6 +320,7 @@ open_to:
 
 <div align="center">
 
+<a href="https://anthonycavero.dev"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_my_site-00D9FF?style=for-the-badge&logo=safari&logoColor=00D9FF&labelColor=0A1220" alt="Portfolio — anthonycavero.dev" /></a>
 <a href="https://www.linkedin.com/in/anthony-cavero/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0A1220" alt="LinkedIn" /></a>
 <a href="mailto:anthonyj.cavero@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-00D9FF?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0A1220" alt="Email" /></a>
 <a href="https://github.com/Antigro09?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore_my_work-00D9FF?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0A1220" alt="GitHub repositories" /></a>
